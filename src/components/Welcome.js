@@ -4,9 +4,9 @@ import styled from 'styled-components'
 
 export const WelcomeStyled = styled.div`
 text-align:center;
-color: azure;
 margin-top:100px;
 font-size:2em;
+color: azure;
 
 
 `
