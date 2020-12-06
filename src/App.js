@@ -43,7 +43,7 @@ class App extends Component{
 
   async fetchAnswers(){
     try{
-      fetch('QueryResults_js_10.json'
+      fetch('QueryResults_js_all.json'
       ,{
         headers : { 
           'Content-Type': 'application/json',
